@@ -27,4 +27,4 @@ N/A
 bronsonsoda
 bperez1081@gmail.com
 ##Video
-(https://drive.google.com/file/d/1H81w69uGw7rvbIGYwoMgqDShoxiAE4du/view)
+[video](https://drive.google.com/file/d/1H81w69uGw7rvbIGYwoMgqDShoxiAE4du/view)

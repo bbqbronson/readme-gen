@@ -1,8 +1,8 @@
 
-# **wow**
-wow
+# **Sample**
+N/A
 ## Description 
-wow
+this for a sample video
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -13,17 +13,17 @@ wow
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-        wo
+        npm i
 ## Usage
-wow
+this is to show how to use this project
 ## Licence
-wow
+n/a
 ## Contributors
-wow
+bronson
 ## Test
-wow
+n/a
 ## Repository
-- [Project Repo](wow)
+- [Project Repo](https://github.com/bronsonsoda/readme-gen)
 ## GitHub
-wo
-wow
+bronsonsoda
+bperez1081@gmail.com
